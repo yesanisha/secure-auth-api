@@ -4,7 +4,6 @@ A production-ready full-stack authentication system built with React, Node.js, E
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://auth-frontend-three-beryl.vercel.app)
 [![Backend](https://img.shields.io/badge/backend-deployed-blue)](https://secure-auth-api-production.up.railway.app)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 🌟 Live Demo
 
